@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<!-- this is the diet foss logo without the gradients. it's easier to edit. -->
+<!-- I wrecked the formatting so it would be easier to see what colors were where and put comments above the blocks describing what you're editing. --> 
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="174.71875"
+   height="174.71875"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="fossboxbadge.svg">
+  <defs
+     id="defs4">
+  </defs>
+  
+  
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="185.47948"
+     inkscape:cy="83.45942"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1429"
+     inkscape:window-height="840"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-195.5,-330.71875)">
+	 
+	 
+<!-- this is the color for the outer circle -->	 
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:0;fill-rule:nonzero;
+	   
+ stroke:#000000;
+ 
+	   stroke-width:9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3004"
+       sodipodi:cx="282.85715"
+       sodipodi:cy="418.07648"
+       sodipodi:rx="82.85714"
+       sodipodi:ry="82.85714"
+       d="m 365.71429,418.07648 c 0,45.76073 -37.09641,82.85714 -82.85714,82.85714 -45.76074,0 -82.85714,-37.09641 -82.85714,-82.85714 0,-45.76074 37.0964,-82.85714 82.85714,-82.85714 45.76073,0 82.85714,37.0964 82.85714,82.85714 z" />
+    <g
+       id="g4909"
+       transform="matrix(0.08041474,0,0,0.08041474,217.31356,346.43287)">
+      <g
+         style="display:inline"
+         inkscape:label="Layer"
+         id="layer1-8" />
+      <g
+         id="g7679"
+         inkscape:label="Layer copy"
+         style="display:inline" />
+      <g
+         style="display:inline"
+         inkscape:label="Layer#1"
+         id="layer2" />
+      <flowRoot
+         transform="matrix(1.6047001,0,0,1.6047001,-5583.0125,-2536.8183)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot6330"
+         xml:space="preserve"><flowRegion
+           id="flowRegion6332"><rect
+             y="127.00504"
+             x="258.92856"
+             height="76.071426"
+             width="373.21429"
+             id="rect6334" /></flowRegion><flowPara
+           id="flowPara6336" /></flowRoot>      <flowRoot
+         transform="matrix(1.8224391,0,0,1.8224391,-8961.8029,-2603.8559)"
+         xml:space="preserve"
+         id="flowRoot3835-4"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+           id="flowRegion3837-3"><rect
+             id="rect3839-0"
+             width="373.21429"
+             height="76.071426"
+             x="258.92856"
+             y="127.00504" /></flowRegion><flowPara
+           id="flowPara3841-8" /></flowRoot>      <flowRoot
+         transform="matrix(1.8943641,0,0,1.8943641,-43874.148,-818.11485)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot4897"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4899"><rect
+             y="127.00504"
+             x="258.92856"
+             height="76.071426"
+             width="373.21429"
+             id="rect4901" /></flowRegion><flowPara
+           id="flowPara4903" /></flowRoot>      
+		   
+<!-- this is the color for the f in foss -->   
+		 <path
+         style="
+		 
+ fill:#000000;
+		 
+		 fill-opacity:1;stroke:none"
+         d="m 112.8894,1164.0583 0,-790.17538 L 814.23873,150.4211 1517.2492,373.84764 1314.7292,479.86567 814.23873,295.56126 771.4981,314.49809 1268.4695,503.4385 1065.0116,609.12657 561.92657,389.14278 315.2557,479.71045 314.30205,1341.4449 c 0,0 -150.62135,-132.7133 -201.41265,-177.3866 z"
+         id="path4890"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccc" />
+		 
+<!-- this is the color for the o in foss -->		 
+      <path
+         style="
+		 
+ fill:#000000;
+		 
+		 fill-opacity:1;stroke:none"
+         d="m 557.77519,427.23409 -194.78846,77.15753 0,880.22268 451.252,396.0436 -0.0114,-1040.94338 202.26907,-105.07829 z m 50.20375,157.24933 57.29321,28.4226 -49.96624,23.20129 0.0114,785.40719 -57.54653,-46.7521 0,-768.9132 z"
+         id="path4892"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccc" />
+		 
+<!-- this is the color for the bottom s in foss -->		 
+      <path
+         style="
+		 
+ fill:#000000;
+		 
+		 fill-opacity:1;stroke:none"
+         d="m 1517.2492,807.21586 -248.7797,177.9318 0,228.97894 -251.9756,204.1034 0,-63.0006 200.3284,-156.9676 0,-175.147 -352.13871,253.4914 0,461.3392 501.77261,-441.0709 -0.9525,-216.6589 50.082,-39.579 0,212.2511 101.6635,-88.343 z"
+         id="path4895"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccc" />
+		 
+<!-- this is the color for the top s in foss -->		 
+      <path
+         sodipodi:nodetypes="ccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4897"
+         d="m 1517.2492,408.33947 -248.7797,132.16472 0,232.57744 -251.9756,159.15332 0,-69.63129 200.3284,-121.04542 0,-173.10481 -352.13871,188.78505 0,469.61532 500.82011,-350.43943 0,-224.34862 50.082,-30.56823 0,219.4829 101.6635,-71.18956 z"
+         style="
+ fill:#00000;
+		 fill-opacity:1;stroke:none" />
+     
+    </g>
+	
+<!-- this is the color for the inner circle -->	
+    <path
+       d="m 365.71429,418.07648 c 0,45.76073 -37.09641,82.85714 -82.85714,82.85714 -45.76074,0 -82.85714,-37.09641 -82.85714,-82.85714 0,-45.76074 37.0964,-82.85714 82.85714,-82.85714 45.76073,0 82.85714,37.0964 82.85714,82.85714 z"
+       sodipodi:ry="82.85714"
+       sodipodi:rx="82.85714"
+       sodipodi:cy="418.07648"
+       sodipodi:cx="282.85715"
+       id="path4934"
+       style="color:#000000;fill:#000000;
+	   
+	   fill-opacity:0;fill-rule:nonzero;
+	   
+ stroke:#000000;
+	   
+	   stroke-width:9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       transform="matrix(0.93061912,0,0,0.93061912,19.624878,29.006514)" />
+  </g>
+</svg>
